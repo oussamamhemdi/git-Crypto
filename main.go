@@ -5,7 +5,7 @@ import (
     "fmt"
     "log"
 
-	"github.com/oussamamhemdi/tutorial/Basics-S1/HttpRequest/client"
+	"github.com/oussamamhemdi/git-Crypto/client"
 )
 
 func main() {
