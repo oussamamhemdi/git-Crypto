@@ -5,7 +5,7 @@ import (
 	//"fmt"
 	"log"
 	"net/http"
-	"./model"
+	"github.com/oussamamhemdi/git-Crypto/model"
 
 )
 
